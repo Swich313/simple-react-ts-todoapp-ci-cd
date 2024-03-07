@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-ts-todoapp-ci-cd/static/css/main.2a75ae30.css",
+    "main.js": "/simple-react-ts-todoapp-ci-cd/static/js/main.0ff166d2.js",
+    "index.html": "/simple-react-ts-todoapp-ci-cd/index.html",
+    "main.2a75ae30.css.map": "/simple-react-ts-todoapp-ci-cd/static/css/main.2a75ae30.css.map",
+    "main.0ff166d2.js.map": "/simple-react-ts-todoapp-ci-cd/static/js/main.0ff166d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a75ae30.css",
+    "static/js/main.0ff166d2.js"
+  ]
+}
